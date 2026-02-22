@@ -40,7 +40,7 @@ I used **Option A: Vanilla HTML/CSS/JS (ES modules)** with a custom IndexedDB la
 
 ## Run
 ### Option 1: No server
-Open `index.html` directly in a browser (double-click works on Windows because the runtime script is non-module and file:// compatible).
+Open `index.html` in a browser.
 
 ### Option 2: Tiny local server
 ```bash
