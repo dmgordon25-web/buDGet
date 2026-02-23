@@ -40,7 +40,7 @@ I used **Option A: Vanilla HTML/CSS/JS (ES modules)** with a custom IndexedDB la
 
 ## Run
 ### Option 1: No server
-Open `index.html` in a browser.
+Open `index.html` directly in a browser (double-click on Windows works; runtime is embedded inline in `index.html`, so there is no external JS fetch/CORS issue under `file://`).
 
 ### Option 2: Tiny local server
 ```bash
