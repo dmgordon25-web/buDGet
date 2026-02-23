@@ -1,14 +1,3 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Master Control Center Budget</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
 (function () {
   function uid(prefix) {
     return `${prefix}_${crypto.randomUUID()}`;
@@ -798,8 +787,3 @@
 
   init();
 }());
-
-    </script>
-    <script type="module" src="js/app.js"></script>
-  </body>
-</html>
